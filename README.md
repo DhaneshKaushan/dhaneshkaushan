@@ -30,6 +30,6 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhaneshkaushan&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)](https://git.io/streak-stats)
 
 </div>
