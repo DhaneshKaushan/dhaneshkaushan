@@ -9,7 +9,7 @@
 - 📫 How to reach me **dhaneshkaushan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p style="text-align: center; line-height: 3;">
+<p align="center">
 <a href="https://linkedin.com/in/dhaneshkaushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaneshkaushan" height="30" width="40" /></a>
 <a href="https://fb.com/dhaneshkaushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhanesh kaushan" height="30" width="40" /></a>
 </p>
